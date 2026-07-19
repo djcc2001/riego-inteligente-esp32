@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="imgs/arquitectura.png" alt="Arquitectura del sistema" width="700">
-</p>
-
 <h1 align="center">
   Sistema de Riego Inteligente con TinyML
 </h1>
