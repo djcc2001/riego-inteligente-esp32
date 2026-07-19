@@ -32,11 +32,11 @@ Sistema de riego autónomo que clasifica el estado hídrico del sustrato (**SECO
 
 El modelo final alcanzó **99.42 % de exactitud** sobre el conjunto de prueba (1036 muestras).
 
-| Clase | Precisión | Recall | F1-score |
-|---|---|---|---|
-| OPTIMO | 1.00 | 0.99 | 0.99 |
-| SATURADO | 0.99 | 1.00 | 0.99 |
-| SECO | 1.00 | 1.00 | 1.00 |
+| Clase | Precisión | Recall | F1-score | Soporte |
+|---|---|---|---|---|
+| OPTIMO | 1.00 | 0.98 | 0.99 | 351 |
+| SATURADO | 0.98 | 1.00 | 0.99 | 343 |
+| SECO | 1.00 | 1.00 | 1.00 | 342 |
 
 ![Matriz de confusión](imgs/matriz_confusion.png)
 
