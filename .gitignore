@@ -19,6 +19,10 @@ informe/
 .DS_Store
 Thumbs.db
 
+# Environment variables
+.env
+.env.*
+
 # Generated datasets (capturados por log_raw_data.py)
 captura/dataset_riego_raw.csv
 captura/dataset_riego_etiquetado.csv
