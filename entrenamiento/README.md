@@ -28,8 +28,8 @@ Variables de entrada: `soil_raw`, `temperatura`, `humedad ambiental`.
 
 | Clase | Precisión | Recall | F1-score | Soporte |
 |---|---|---|---|---|
-| OPTIMO | 1.00 | 0.99 | 0.99 | 351 |
-| SATURADO | 0.99 | 1.00 | 0.99 | 343 |
+| OPTIMO | 1.00 | 0.98 | 0.99 | 351 |
+| SATURADO | 0.98 | 1.00 | 0.99 | 343 |
 | SECO | 1.00 | 1.00 | 1.00 | 342 |
 
 ## Archivos
