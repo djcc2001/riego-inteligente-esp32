@@ -1,0 +1,34 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+**/__pycache__/
+
+# LaTeX (generated)
+informe/*.aux
+informe/*.log
+informe/*.out
+informe/*.toc
+informe/*.synctex*
+informe/*.fls
+informe/*.fdb_latexmk
+informe/main.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated datasets (capturados por log_raw_data.py)
+captura/dataset_riego_raw.csv
+captura/dataset_riego_etiquetado.csv
+
+# Papers descargados (no forman parte del proyecto fuente)
+Estado_Arte/
