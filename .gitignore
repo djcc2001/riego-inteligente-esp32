@@ -12,15 +12,8 @@ __pycache__/
 .venv/
 **/__pycache__/
 
-# LaTeX (generated)
-informe/*.aux
-informe/*.log
-informe/*.out
-informe/*.toc
-informe/*.synctex*
-informe/*.fls
-informe/*.fdb_latexmk
-informe/main.pdf
+# Informe (solo en repositorio local)
+informe/
 
 # OS
 .DS_Store
